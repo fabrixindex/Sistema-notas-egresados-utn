@@ -1,0 +1,42 @@
+[
+    {
+        "legajo": 269224,
+        "nombre": "pepe",
+        "apellido": "lopez",
+        "egreso": 2011,
+        "plan": 1991,
+        "nota_promedio": 7.0
+    },
+    {
+        "legajo": 792024,
+        "nombre": "julian",
+        "apellido": "perez",
+        "egreso": 2010,
+        "plan": 2003,
+        "nota_promedio": 7.0
+    },
+    {
+        "legajo": 276136,
+        "nombre": "toto",
+        "apellido": "lopez",
+        "egreso": 2015,
+        "plan": 2024,
+        "nota_promedio": 8.0
+    },
+    {
+        "legajo": 255554,
+        "nombre": "Fabricio",
+        "apellido": "Papetti",
+        "egreso": 2025,
+        "plan": 2024,
+        "nota_promedio": 10.0
+    },
+    {
+        "legajo": 871119,
+        "nombre": "pepo",
+        "apellido": "lalala",
+        "egreso": 1991,
+        "plan": 1991,
+        "nota_promedio": 8.0
+    }
+]
