@@ -19,6 +19,15 @@ Ambas partes aplican programación estructurada, funciones propias, validaciones
 
 ---
 
+# 🎥 Video de defensa
+
+En el siguiente video se explican las funciones desarrolladas y se muestra la ejecución completa del programa.
+
+[![Ver video](https://img.shields.io/badge/Ver%20demo-YouTube-red?style=for-the-badge&logo=youtube)]()
+
+
+---
+
 # 🥇 Parte 1 — Matrices y archivos CSV
 
 📁 Carpeta: `Parte 1/`
@@ -248,14 +257,6 @@ python Main.py
 - CSV (algoritmia propia, sin el módulo `csv`)
 - Visual Studio Code
 - Git / GitHub
-
----
-
-# 🎥 Video de defensa
-
-En el siguiente video se muestra el funcionamiento completo de ambas partes del sistema, con la explicación de las funciones desarrolladas.
-
-> *(Agregar enlace de YouTube o Google Drive)*
 
 ---
 
