@@ -171,7 +171,7 @@ def cargar_desde_csv(nombre_archivo: str) -> list:
             archivo.close()
             del archivo
             for numero_linea in range(len(lineas)):
-                if numero_linea == 0:          # saltar encabezado
+                if numero_linea == 0:          
                     continue
                 linea_limpia = quitar_salto_linea(lineas[numero_linea])
                 if len(linea_limpia) > 0:

@@ -62,7 +62,6 @@ def mostrar_menu() -> None:
                     datos_cargados = True
                     carga_manual   = False
                     imprimir_carga_exitosa()
-                # Si resultado es None, cargar_desde_csv ya imprimió el error
 
             else:
                 imprimir_error_opcion()

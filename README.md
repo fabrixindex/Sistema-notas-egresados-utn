@@ -23,7 +23,7 @@ Ambas partes aplican programación estructurada, funciones propias, validaciones
 
 En el siguiente video se explican las funciones desarrolladas y se muestra la ejecución completa del programa.
 
-[![Ver video](https://img.shields.io/badge/Ver%20demo-YouTube-red?style=for-the-badge&logo=youtube)]()
+[![Ver video](https://img.shields.io/badge/Ver%20demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/fTbO48HQjh0)
 
 
 ---
